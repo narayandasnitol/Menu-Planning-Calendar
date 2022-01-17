@@ -1,4 +1,4 @@
-var type = prompt("Enter Type");
+var type = prompt("Enter Type(active/Superactive/bored)");
 var s_date = prompt("Enter Starting Date(2016-09-01)");
 var e_date = prompt("Enter Ending Date(2016-09-08)");
 
